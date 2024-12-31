@@ -1,8 +1,3 @@
-/*
-see
-https://web.archive.org/web/20160418004149/http://freespace.virgin.net/hugo.elias/models/m_clouds.htm
-(by the time we get to YUV and FBM in Cuda, Needlepoint )
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
